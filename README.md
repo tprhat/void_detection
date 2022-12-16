@@ -1,4 +1,4 @@
-# void_detection
+# Void detection
 Void detection on store shelves
 
 - source code is in the ipynb notebook
